@@ -1,6 +1,11 @@
 ### `live at`
  https://to-do-list-rkpm454le-kritis-projects-a1c2086f.vercel.app/
- 
+### `it looks like`
+
+
+https://github.com/user-attachments/assets/7908d814-d158-4dd4-b807-ec82a85151e8
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
